@@ -1,0 +1,1 @@
+This api is responsible for ecommerce management, with endpoints for managing users, products and orders.
